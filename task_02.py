@@ -3,3 +3,5 @@
 
 def opposite(number):
  return - number 
+
+# Выполнено
