@@ -3,3 +3,5 @@
 
 def multiply(a, b):
   return a * b
+
+# Хах, забавная задачка) 
